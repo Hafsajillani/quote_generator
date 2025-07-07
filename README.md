@@ -1,4 +1,4 @@
-##Quote Generator
+## Quote Generator
 
 A simple and inspiring quote generator designed to uplift and motivate users with wisdom, positivity, and encouragement. This project delivers a curated collection of quotes focused on themes like success, love, life, innovation, leadership, and personal growth. It aims to spark creativity, drive ambition, and foster a positive mindset through carefully crafted sayings, proverbs, and expressions.
 
